@@ -1,0 +1,10 @@
+.idea/
+.git/
+.deploy_git/
+node_modules/
+public/
+
+
+# Package Files #
+*.log
+db.json
